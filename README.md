@@ -9,6 +9,14 @@ Chrsitie Chen
 
 
 
+    When was the last time you had a split a bill? If you’re a college student, probably pretty recently. 
+    Splitting the bill can be an annoying task – who pays the total? Who do you pay back?
+    Our app makes it easy to split the bill evenly, easily keeping track of how much you owe. 
+
+    In addition, our app keeps track of people’s receipts, keeping track of total prices, taxes, 
+    and tips, helping users organize their personal purchases.
+
+
 
 
 

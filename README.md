@@ -1,14 +1,12 @@
 # iOS_U.O.ME
 Finance Tracking App
 
-
+Authors: 
+Jiwoo Seo
 Anderson Jeronimo
-
 Owen Ricketts
-
 Chrsitie Chen
 
-Jiwoo Seo
 
 
 
